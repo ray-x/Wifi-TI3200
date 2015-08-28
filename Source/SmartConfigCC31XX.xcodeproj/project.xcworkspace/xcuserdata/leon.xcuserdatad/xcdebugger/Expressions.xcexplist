@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[FirstTimeConfig initWithData:withSSID:withKey:withEncryptionKey:numberOfSetups:numberOfSyncs:syncLength1:syncLength2:delayInMicroSeconds:]:FirstTimeConfig.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[FirstTimeConfig sendData:]:FirstTimeConfig.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Ftc20 encodePackets]:Ftc20.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

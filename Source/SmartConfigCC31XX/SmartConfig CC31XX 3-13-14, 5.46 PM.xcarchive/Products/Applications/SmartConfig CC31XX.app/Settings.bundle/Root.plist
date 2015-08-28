@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string>If checked, device name entry will be available on configuration screen</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>Title</key>
+			<string>Show Device Name</string>
+			<key>Key</key>
+			<string>show_device_name</string>
+			<key>DefaultValue</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string>If checked, application will start on 'Device List' tab</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>Title</key>
+			<string>Open in Device List</string>
+			<key>Key</key>
+			<string>open_device_list</string>
+			<key>DefaultValue</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>Title</key>
+			<string>Show SmartConfig Password</string>
+			<key>Key</key>
+			<string>show_sc_pass</string>
+			<key>DefaultValue</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string>Enable/Disable the ‘Out-of-Box’ tab</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>Title</key>
+			<string>Enable Out-of-Box</string>
+			<key>Key</key>
+			<string>enable_oob</string>
+			<key>DefaultValue</key>
+			<true/>
+		</dict>
+	</array>
+	<key>StringsTable</key>
+	<string>Root</string>
+</dict>
+</plist>

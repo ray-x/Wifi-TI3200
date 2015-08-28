@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ApplicationProperties</key>
+	<dict>
+		<key>ApplicationPath</key>
+		<string>Applications/SmartConfig CC31XX.app</string>
+		<key>CFBundleIdentifier</key>
+		<string>com.panda-os.SmartConfig-CC31XX</string>
+		<key>CFBundleShortVersionString</key>
+		<string>1.0</string>
+		<key>CFBundleVersion</key>
+		<string>1.0</string>
+		<key>IconPaths</key>
+		<array>
+			<string>Applications/SmartConfig CC31XX.app/AppIcon29x29@2x.png</string>
+			<string>Applications/SmartConfig CC31XX.app/AppIcon29x29.png</string>
+			<string>Applications/SmartConfig CC31XX.app/AppIcon40x40@2x.png</string>
+			<string>Applications/SmartConfig CC31XX.app/AppIcon57x57@2x.png</string>
+			<string>Applications/SmartConfig CC31XX.app/AppIcon57x57.png</string>
+			<string>Applications/SmartConfig CC31XX.app/AppIcon60x60@2x.png</string>
+		</array>
+		<key>SigningIdentity</key>
+		<string>iPhone Developer: Leon Gordin (JP6443HCLB)</string>
+	</dict>
+	<key>ArchiveVersion</key>
+	<integer>2</integer>
+	<key>CreationDate</key>
+	<date>2014-03-13T15:46:53Z</date>
+	<key>Name</key>
+	<string>SmartConfig CC31XX</string>
+	<key>SchemeName</key>
+	<string>SmartConfig CC31XX</string>
+</dict>
+</plist>
