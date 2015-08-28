@@ -35,6 +35,10 @@
 - (id)initWithData:(NSString *)Ip withSSID:(NSString *)Ssid withKey:(NSString *)Key withEncryptionKey:(NSData *)EncryptionKey numberOfSetups:(int)numOfSetups numberOfSyncs:(int)numOfSyncs syncLength1:(int)lSync1 syncLength2:(int)lSync2 delayInMicroSeconds:(useconds_t)uDelay {
     return [super init];
 }
+- (id)initWithData:(NSString *)Ip withSSID:(NSString *)Ssid withKey:(NSString *)Key withFreeData:(NSData*)freeData withEncryptionKey:(NSData *)EncryptionKey numberOfSetups:(int)numOfSetups numberOfSyncs:(int)numOfSyncs syncLength1:(int)lSync1 syncLength2:(int)lSync2 delayInMicroSeconds:(useconds_t)uDelay{
+    return [super init];
+}
+
 
 /* The following procedure can throw an OSFailureException exception */
 - (void)stopTransmitting {
