@@ -1,0 +1,1 @@
+This is a branch version from TI smart config from iOS device. Fix building issues for iOS7/8
